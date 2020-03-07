@@ -1,10 +1,10 @@
-/******************************************************************************
+/*store a list of 1000 random integer values in an array.
 
-                              Online C++ Compiler.
-               Code, Compile, Run and Debug C++ program online.
-Write your code in this editor and press "Run" button to compile and execute it.
+- Create 3 arrays using this method. Apply each of the Merge and Quicksort algorithms to each array.
 
-*******************************************************************************/
+- Determine the number of comparisons and exchanges for each sort algorithm for each array.
+  
+  */
 
 #include <iostream>
 #include <cstdlib>
